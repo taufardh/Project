@@ -1,3 +1,3 @@
 # Project
 
-super sintak
+super syntax
